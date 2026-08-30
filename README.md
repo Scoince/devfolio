@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=2F0D64&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Daniel" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=2F0D64&width=600&lines=I'm+a+PostGraduate+in+M.Tech _AI%2C+currently+at+Punjab." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=2F0D64&width=600&lines=I'm+a+PostGraduate+in+M.Tech+AI%2C+currently+at+Punjab." alt="Typing SVG" />
 </a>
 
 ## 🚀 About Me
